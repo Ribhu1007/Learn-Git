@@ -1,6 +1,6 @@
 public class Dif {
     public static void main(String args[]){
-        int a=4,b=6;
+        int a=10,b=20;
         System.out.println("Difference is " +(b-a));
     }
     
